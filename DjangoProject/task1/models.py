@@ -27,5 +27,9 @@ class Game(models.Model):
 # python manage.py makemigrations
 # python manage.py migrate
 # python manage.py runserver
-# python manage.py startapp task5
+# python manage.py startapp task1
 # cd DjangoProject
+
+#    text1 = "Atomic Heart"
+#    text2 = "Cyberpunk 2077"
+#    text3 = "PayDay 2"
