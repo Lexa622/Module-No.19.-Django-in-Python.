@@ -1,5 +1,4 @@
 from django.db import models
-# Create your models here.
 
 
 class Buyer(models.Model):
@@ -29,7 +28,3 @@ class Game(models.Model):
 # python manage.py runserver
 # python manage.py startapp task1
 # cd DjangoProject
-
-#    text1 = "Atomic Heart"
-#    text2 = "Cyberpunk 2077"
-#    text3 = "PayDay 2"
